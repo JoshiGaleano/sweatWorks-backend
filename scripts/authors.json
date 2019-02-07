@@ -1,0 +1,102 @@
+[
+    {
+        "email": "Dostoevsky@gmail.com",
+        "name": "Fyodor Dostoevsky",
+        "birthdate": "1821-11-11"
+    },
+    {
+        "email": "Alighieri@gmail.com",
+        "name": "Dante Alighieri",
+        "birthdate": "1265-06-20"
+    },
+    {
+        "email": "Tolstoy@gmail.com",
+        "name": "Leo Tolstoy",
+        "birthdate": "1828-09-09"
+    },
+    {
+        "email": "Victor@gmail.com",
+        "name": "Victor Hugo",
+        "birthdate": "1900-05-12"
+    },
+    {
+        "email": "Shakespeare@gmail.com",
+        "name": "William Shakespeare ",
+        "birthdate": "1800-04-25"
+    },
+    {
+        "email": "Wolfgang@gmail.com",
+        "name": "Johann Wolfgang von Goethe",
+        "birthdate": "1749-08-28"
+    },
+    {
+        "email": "Cervantes@gmail.com",
+        "name": "Miguel de Cervantes y Saavedra",
+        "birthdate": "1547-10-09"
+    },
+    {
+        "email": "Calvino@gmail.com",
+        "name": "Italo Calvino",
+        "birthdate": "1923-10-15"
+    },
+    {
+        "email": "Stendhal @gmail.com",
+        "name": "Stendhal",
+        "birthdate": "1783-01-02"
+    },
+    {
+        "email": "Baudelaire@gmail.com",
+        "name": "Charles Baudelaire",
+        "birthdate": "2000-11-12"
+    },
+    {
+        "email": "Proust@gmail.com",
+        "name": "Marcel Proust",
+        "birthdate": "1980-03-25"
+    },
+    {
+        "email": "Boccaccio@gmail.com",
+        "name": "Giovanni Boccaccio",
+        "birthdate": "1530-12-03"
+    },
+    {
+        "email": "Pushkin@gmail.com",
+        "name": "Alexander Pushkin",
+        "birthdate": "2013-04-30"
+    },
+    {
+        "email": "Muhammad@gmail.com",
+        "name": "Jalaluddin Muhammad Rumi",
+        "birthdate": "1988-02-20"
+    },
+    {
+        "email": "Kafka@gmail.com",
+        "name": "Franz Kafka",
+        "birthdate": "1999-10-10"
+    },
+    {
+        "email": "Chekhov@gmail.com",
+        "name": "Anton Chekhov",
+        "birthdate": "2002-07-12"
+    },
+    {
+        "email": "Rimbaud@gmail.com",
+        "name": "Arthur Rimbaud",
+        "birthdate": "1970-11-23"
+    },
+    {
+        "email": "Ecogmail.com",
+        "name": "Umberto Eco",
+        "birthdate": "1986-06-18"
+    },
+    {
+        "email": "Tolkien@gmail.com",
+        "name": "J.R.R. Tolkien",
+        "birthdate": "20001-02-06"
+    },
+    {
+        "email": "Faulkner@gmail.com",
+        "name": "William Faulkner",
+        "birthdate": "1976-05-12"
+    }
+]

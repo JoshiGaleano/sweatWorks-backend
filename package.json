@@ -1,0 +1,22 @@
+{
+  "name": "sweatworks-backend",
+  "version": "1.0.0",
+  "description": "REST API based on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "list-table": "cd scripts && node listTables.js && cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshiGaleano/sweatWorks-backend.git"
+  },
+  "author": "JGaleano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshiGaleano/sweatWorks-backend/issues"
+  },
+  "homepage": "https://github.com/JoshiGaleano/sweatWorks-backend#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
